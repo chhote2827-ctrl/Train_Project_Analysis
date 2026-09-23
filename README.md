@@ -13,7 +13,7 @@ This Power BI dashboard provides an end-to-end analysis of sales, orders, custom
 - **Interactive Filters:** Date slider, Region, and Category slicers.
 ## 📸 Dashboard Preview
 
-![Train Preview](./Screenshot%202026-09-23%20201759_2.png)
+![Train Preview](./Screenshot%202026-09-23%20201759.png)
 
 ## 🛠️ Tools Used
 - **Power BI Desktop**
