@@ -1,4 +1,3 @@
-# Train_Project_Analysis
 # 📊 Sales & Orders Analysis Power BI Dashboard
 
 ## 📌 Project Overview
@@ -14,8 +13,8 @@ This Power BI dashboard provides an end-to-end analysis of sales, orders, custom
 - **Interactive Filters:** Date slider, Region, and Category slicers.
 
 ## 📸 Dashboard Preview
-![G:\Project Data Analysh\train project.pbix
-]("G:\Project Data Analysh\train project.pbix")
+## 📸 Dashboard Preview
+![Dashboard Preview](./Screenshot%202026-09-23%20201759_2.png)
 
 ## 🛠️ Tools Used
 - **Power BI Desktop**
