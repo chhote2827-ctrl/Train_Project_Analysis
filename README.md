@@ -12,7 +12,8 @@ This Power BI dashboard provides an end-to-end analysis of sales, orders, custom
 - **Customer Insights:** Top 10 Customers by Total Sales.
 - **Interactive Filters:** Date slider, Region, and Category slicers.
 ## 📸 Dashboard Preview
-![Dashboard Preview](./Screenshot%202026-09-23%20201759_2.png)
+
+![Train Preview](./Screenshot%202026-09-23%20201759_2.png)
 
 ## 🛠️ Tools Used
 - **Power BI Desktop**
